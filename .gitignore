@@ -2,6 +2,8 @@
 # Created by https://www.gitignore.io/api/java,macos,windows,eclipse,intellij,visualstudio,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=java,macos,windows,eclipse,intellij,visualstudio,visualstudiocode
 
+to_be_ignore.txt
+
 ### Eclipse ###
 
 .metadata
