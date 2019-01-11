@@ -1,4 +1,4 @@
-ï»¿#include <stdio.h>
+#include <stdio.h>
  
 int add(int, int);
 int sub(int, int);
@@ -10,7 +10,8 @@ int main(int argc, char* argv[])
 	int number1, number2, result;
 	char operator;
 	
-	printf("ìˆ˜ì‹ì„ ì…ë ¥í•˜ì„¸ìš”: ");
+	//¿Í¿Í¿Í¿Í¾Æ¾Æ¾Æ¾Æ¾Æ
+	printf("¼ö½ÄÀ» ÀÔ·ÂÇÏ¼¼¿ä: ");
 	scanf("%d %c %d", &number1, &operator, &number2);
 	
 	switch (operator)
